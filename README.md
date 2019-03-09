@@ -2,19 +2,19 @@
 
 ## Wargames
 ### I wargames sono delle sfide a livelli, in cui risolvendo un livello si ottiene la password per il livello successivo
-- [OverTheWire](overthewire.org/wargames/)
+- [OverTheWire](https://overthewire.org/wargames/)
 
 ## Challenges
 ### CTF sempre attive
-- [Hacker101 CTF](ctf.hacker101.com)
-- [Cyber Talents](cybertalents.com/challenges)
+- [Hacker101 CTF](https://ctf.hacker101.com)
+- [Cyber Talents](https://cybertalents.com/challenges)
 
 ## Writeups
-- [CTF TIME](ctftime.org) - Ci sono i writeups delle CTF passate
+- [CTF TIME](https://ctftime.org) - Ci sono i writeups delle CTF passate
 
 ## Tools
 - [ASCII to Hex](https://www.asciitohex.com/) - Convertitore tra diverse codifiche
-- [RsaCtfTool](github.com/Ganapati/RsaCtfTool) - Diversi attacchi automatizzati per Rsa
+- [RsaCtfTool](https://github.com/Ganapati/RsaCtfTool) - Diversi attacchi automatizzati per Rsa
 - [RSA-Chinese-Remainder](https://github.com/JulesDT/RSA-Hastad) - Tool per effettuare Hastad attack (Broadcast Attack)
 
 ## Risorse per imparare roba
