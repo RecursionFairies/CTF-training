@@ -15,3 +15,4 @@ Passwords of the Natas leveles:
 * **natas17**: `8Ps3H0GWbn5rd9S7GmAdgQNdkhPkq9cw`
 * **natas18**: `xvKIqDjy4OPv7wCRgDlmj0pFsCsDjhdP`
 * **natas19**: `4IwIrekcuZlA9OsjOkoUtwU6lhokCPYs`
+* **natas20**: `eofm3Wsshxc5bwtVnEuGIlr7ivb9KABF`
